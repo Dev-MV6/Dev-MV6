@@ -9,7 +9,7 @@ I'm just a passionate **web developer** and **tech enthusiast** who loves to cod
 
 ```
 E: Who are you?
-V: Who? "Who" is but the form following the function of "what"and what I am is a man in a mask.
+V: Who? "Who" is but the form following the function of "what" and what I am is a man in a mask.
 E: Well, I can see that.
 V: Of course you can. I'm not questioning your powers of observation, I'm merely remarking upon the paradox of asking a masked man who he is.
 ```
